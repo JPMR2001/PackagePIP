@@ -1,0 +1,7 @@
+README.md
+setup.py
+PackagePIP/__init__.py
+PackagePIP.egg-info/PKG-INFO
+PackagePIP.egg-info/SOURCES.txt
+PackagePIP.egg-info/dependency_links.txt
+PackagePIP.egg-info/top_level.txt

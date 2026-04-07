@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: PackagePIP
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/JPMR2001/PackagePIP
+Author: JPMR2001
+Author-email: jp.mathieu.r2001@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
